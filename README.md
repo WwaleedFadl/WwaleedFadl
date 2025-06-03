@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm waleed fadl</h1>
+ 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
