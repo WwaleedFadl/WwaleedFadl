@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 # Hello World!, I'm Waleed, an egyptian Web Developer 👋🏼:
 💻 currently working on my own [webpage](https://myportrfoliio1.vercel.app/)<br>
 
