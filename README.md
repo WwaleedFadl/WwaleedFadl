@@ -2,7 +2,7 @@
 # Hello World!, I'm Waleed, an egyptian Web Developer 👋🏼:<br>
 💻 currently working on my own [webpage](https://myportrfoliio1.vercel.app/)<br>
 <img src="[assets/your-gif-file.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNyeDZjOHY0YmRpMHI1cWtvNDJwcjQzM3I5d2U2YXhycWw3NzhmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)" width="400"/>
-![Alt text](./me.gif)
+![Alt text](me.gif)
 
 
 # 💻 Tech Stack:
