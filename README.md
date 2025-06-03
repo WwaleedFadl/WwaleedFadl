@@ -1,4 +1,4 @@
- <img src="./me.gif" width="400" style={margin:'auto'}/>
+ <img src="./me.gif" width="400" />
 # Hello World!, I'm Waleed, an egyptian Web Developer 👋🏼:<br>
 💻 currently working on my own [webpage](https://myportrfoliio1.vercel.app/)<br>
 
